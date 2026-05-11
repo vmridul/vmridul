@@ -25,7 +25,7 @@
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" style="filter: invert(1);"/>
 &nbsp;
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 &nbsp;
@@ -46,6 +46,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="40"/>
 &nbsp;
