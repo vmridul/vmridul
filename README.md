@@ -1,10 +1,6 @@
 <h1 align="center">Hi , I'm Mridul Verma</h1>
 <h3 align="center">Developer | Open Source Contributor | Problem Solver</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Open+Source+Contributor;Problem+Solver;Always+Learning&center=true&width=500&height=50">
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mridul-verma-a875aa256"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
